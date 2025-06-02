@@ -35,8 +35,7 @@
 
 ## 🧱 Architecture
 
-> 📷 _[Insert Architecture Diagram Here]_  
-The system follows a modular flow from PDF upload → embedding → retrieval → LLM answer → self-reflection → final output.
+![alt text](https://github.com/AbyyyCJL/Self-RAG-Implementation/blob/main/img/Final_Self-RAG_Architecture.drawio.png)
 
 ---
 
