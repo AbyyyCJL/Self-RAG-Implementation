@@ -35,7 +35,7 @@
 
 ## 🧱 Architecture
 
-![alt text](https://github.com/AbyyyCJL/Self-RAG-Implementation/blob/main/img/Final_Self-RAG_Architecture.drawio.png)
+![alt text](img/Correct_Self_RAG_Architecture.drawio.png)
 
 ---
 
